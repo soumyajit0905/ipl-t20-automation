@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class IPLPointsTable extends BaseTest {
+public class IPLPointsTableTest extends BaseTest {
 
 	@Test
 	public void extractPointsTableData() {
