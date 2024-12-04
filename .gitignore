@@ -1,0 +1,19 @@
+# Exclude compiled Java files and build directories
+/target/
+/test-output/
+
+# Eclipse IDE specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Maven wrapper files (optional, if you don't need them)
+.mvn/
+
+# Docker-related files (if not needed in the repo)
+Dockerfile
+docker-compose.yml
